@@ -16,4 +16,4 @@ Steinbock will need to be installed manually, with instructions at this URL: htt
 After installation, your directory should look like this:
 <img width="729" alt="Screenshot 2023-07-20 at 2 55 26 PM" src="https://github.com/cjtheparkranger/IMC_Pipeline/assets/76821785/874404a3-71a7-4664-bd5a-e3e3584d9008">
 
-
+After running the mcd_to_tiff.py script, a folder named 'analysis' should appear in your ImcSegmentationPipeline folder, which will the base of all image process and storage.
